@@ -6,7 +6,7 @@ description: >-
 
 # Propriedades
 
-## SESSIONID
+## sessionID
 
 Contem o id da sessão ao qual aquela mensagem pertence.
 
